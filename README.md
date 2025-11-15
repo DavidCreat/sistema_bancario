@@ -59,3 +59,11 @@ reporte detallado de qué hace cada prueba y ver que todas pasan individualmente
 ```bash
 python -m unittest -v test_sistema.py
 ```
+
+## Evidencias
+
+<img width="679" height="198" alt="image" src="https://github.com/user-attachments/assets/cacae1f5-7304-4975-aa39-970a0fbf180f" />
+<img width="704" height="254" alt="image" src="https://github.com/user-attachments/assets/cc348bf6-7314-46d8-8757-047c0fffbec3" />
+<img width="911" height="341" alt="image" src="https://github.com/user-attachments/assets/cf1fba27-8a23-4c2d-87e0-4ea94b898bca" />
+
+
